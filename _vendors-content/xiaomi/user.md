@@ -1,4 +1,4 @@
----
+---huawei
 manufacturer: 
     - xiaomi
 
